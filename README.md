@@ -1,2 +1,25 @@
-# wp-lp-practice-01
-Conversion-focused LP practice using HTML/CSS and WordPress
+# Conversion-focused LP (Practice 01)
+
+## 概要
+ユーザーのコンバージョン（問い合わせ・申込）を最大化することを目的としたランディングページの設計・実装
+
+## 想定ターゲット
+中小企業・サービス業（集客課題あり）
+
+## 解決したい課題
+- 問い合わせ数が少ない
+- ユーザー導線が弱い
+- CTAが機能していない
+
+## 実装内容
+- ファーストビュー最適化
+- CTA配置の改善
+- 視線誘導を意識したレイアウト設計
+
+## 使用技術
+- HTML / CSS
+- WordPress（予定）
+
+## 今後の改善
+- レスポンシブ最適化
+- 表示速度改善
